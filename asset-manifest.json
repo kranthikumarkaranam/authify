@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/authify/static/css/main.142dd5a5.css",
+    "main.js": "/authify/static/js/main.fbf329a8.js",
+    "index.html": "/authify/index.html",
+    "main.142dd5a5.css.map": "/authify/static/css/main.142dd5a5.css.map",
+    "main.fbf329a8.js.map": "/authify/static/js/main.fbf329a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.142dd5a5.css",
+    "static/js/main.fbf329a8.js"
+  ]
+}
