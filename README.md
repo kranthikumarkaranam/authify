@@ -48,7 +48,7 @@ Here are some key features of the Authify project:
 
 <p style="font-weight: bold;">1. Clone the repository:</p>
 
-> To clone the Authify repository, run the following command in your terminal:
+> To clone the authify repository, run the following command in your terminal:
 
 ```
 git clone https://github.com/kranthikumarkaranam/authify.git
