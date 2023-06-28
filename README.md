@@ -48,7 +48,7 @@ Here are some key features of the Authify project:
 
 <p style="font-weight: bold;">1. Clone the repository:</p>
 
-> To clone the expense-tracker repository, run the following command in your terminal:
+> To clone the Authify repository, run the following command in your terminal:
 
 ```
 git clone https://github.com/kranthikumarkaranam/authify.git
@@ -68,7 +68,7 @@ npm install
 
 <p style="font-weight: bold;">3. Start the server:</p>
 
-> To start the server and run the Expense Tracker application, use the following command:
+> To start the server and run the Authify application, use the following command:
 
 
 ```
@@ -77,13 +77,13 @@ npm start
 
 <br>
 
-<p style="font-weight: bold;">4. Access Expense Tracker:</p>
+<p style="font-weight: bold;">4. Access Authify:</p>
 
-> Once the server is up and running, you can access the Expense Tracker application in your web browser by following these steps:
+> Once the server is up and running, you can access the Authify application in your web browser by following these steps:
 
 * Open your web browser.
 * Type `http://localhost:3000` in the address bar.
-* Press Enter to access the Expense Tracker application.
+* Press Enter to access the Authify application.
 
 <br>
 <br>
